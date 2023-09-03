@@ -9,7 +9,7 @@
 
 ### How to get Quickdraw
 
-#### 1. Create a issue in any repository;
+#### 1. Create an issue in any repository;
 #### 2. Submit new issue;
 #### 3. Write a comment;
 #### 4. Close the issue. 
