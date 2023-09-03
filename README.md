@@ -7,12 +7,12 @@
 <img width="296" src="quick-draw.png" alt="QuickDraw-Pin">
 </div>
 
-## How to get Quickdraw
+### How to get Quickdraw
 
-### 1. Create a issue in any repository;
-### 2. Submit new issue;
-### 3. Write a comment;
-### 4. Close the issue. 
+#### 1. Create a issue in any repository;
+#### 2. Submit new issue;
+#### 3. Write a comment;
+#### 4. Close the issue. 
 
 You got the Quickdraw Achievement.
 ----
